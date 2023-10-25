@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Croissant+One&family=Montserrat:wght@300&family=Poppins:wght@300&family=Raleway:wght@500&display=swap');
+ul {
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+}
+
+nav {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    color: black;
+    display: flex;
+    gap: 150px;
+
+}
+
+header {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: 100px;
+}
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+h1 b i{
+    font-family: 'Croissant One', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Croissant One', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Raleway', sans-serif;
+}
